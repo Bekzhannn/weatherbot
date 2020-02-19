@@ -5,7 +5,7 @@ import urllib as urllib2
 from googletrans import Translator
 
 
-token = "690263322:AAH-3v6gvlCpcMFS0FNYtkoCnnVSV3IFWjw"
+token = "   "
 
 bot = telebot.TeleBot(token)
 
